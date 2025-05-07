@@ -1,0 +1,70 @@
+---
+title: "Data jam with #tidytuesday"
+author: "R Café @ TU Delft"
+format:
+  rcafe-revealjs: default
+---
+
+## What is #TidyTuesday?
+
+**#TidyTuesday** is a weekly data project initiated by the [R for Data Science (R4DS) Online Learning Community](https://github.com/rfordatascience/tidytuesday).
+
+Every **Tuesday**, a new dataset is posted to encourage:
+
+  - **Exploratory data analysis**
+  - **Data visualization**
+  - **Practice with tidyverse tools**
+
+🌍 It's open to everyone—from beginners to seasoned data scientists.
+
+## Our Last Example
+
+![ ](/_extensions/rcafe/tidytuesday-plot.png)
+
+
+## Community Examples
+
+Explore community contributions at [tidytuesday.rocks](https://shiny.posit.co/r/gallery/miscellaneous/tidy-tuesday/).
+
+## Today's data
+
+[https://github.com/rfordatascience/tidytuesday](https://github.com/rfordatascience/tidytuesday)
+
+**Week 18**: National Science Foundation Grant Terminations under the Trump Administration 
+
+
+## TU Delft R Café {.center}
+
+::: {.columns}
+::: {.column width="70%"}
+
+<i class="nf nf-cod-home"></i> [delft-rcafe.github.io/home/](https://delft-rcafe.github.io/home/)  
+<i class="nf nf-md-email"></i> [rcafe-lib@tudelft.nl](mailto:rcafe-lib@tudelft.nl)  
+<i class="nf nf-md-github"></i> [delft-rcafe](https://github.com/delft-rcafe)
+<pre style="font-size: 35px; color: #00A6D6;">  
+Join our mailing list!
+
+</pre>
+
+:::
+
+::: {.column width="30%"}
+![ ](/_extensions/rcafe/qr_code.png){fig-align="center" width="250px"}
+:::
+:::
+
+## Rbanism Community
+
+::: {.columns}
+::: {.column width="70%"}
+
+Build capacity, competence, and confidence for working with data and research software in the urbanism community.
+
+
+<i class="nf nf-cod-home"></i> [rbanism.org/](https://delft-rcafe.github.io/home/) 
+:::
+
+::: {.column width="30%"}
+![ ](/_extensions/rcafe/rbanism.png){fig-align="center" width="250px"}
+:::
+:::
